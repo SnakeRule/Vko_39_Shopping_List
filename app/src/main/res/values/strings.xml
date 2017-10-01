@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Vko_39_Shopping_List</string>
+    <string name="price">Price: </string>
+    <string name="product">Product: </string>
+    <string name="Amount">Amount: </string>
+    <string name="addProduct">Add Product</string>
+</resources>
